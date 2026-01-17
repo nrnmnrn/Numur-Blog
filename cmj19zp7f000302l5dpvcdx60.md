@@ -3,7 +3,7 @@ title: "為什麼我開始寫部落格"
 datePublished: Thu Dec 11 2025 10:08:42 GMT+0000 (Coordinated Universal Time)
 cuid: cmj19zp7f000302l5dpvcdx60
 slug: why-i-started-blogging
-tags: introduction
+tags: introduction, chinese
 
 ---
 
