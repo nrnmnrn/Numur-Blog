@@ -3,7 +3,7 @@ title: "保養真的需要那麼多瓶瓶罐罐嗎？從被推銷到理解 Skini
 datePublished: Wed Jan 14 2026 12:57:28 GMT+0000 (Coordinated Universal Time)
 cuid: cmke0zp3d000202jrdtfsg4tn
 slug: skinimalism-skincare-research
-tags: 5lit5pah, skinimalism
+tags: chinese, skinimalism
 
 ---
 
