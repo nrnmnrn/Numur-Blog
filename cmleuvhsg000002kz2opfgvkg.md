@@ -3,7 +3,7 @@ title: "從記憶體炸裂到獨立完成推薦系統——找到自己步調的
 datePublished: Mon Feb 09 2026 07:33:43 GMT+0000 (Coordinated Universal Time)
 cuid: cmleuvhsg000002kz2opfgvkg
 slug: 5b6e6kiy5oa26auu54k46koc5yiw542o56ul5a6m5oiq5o6o6jam57o757wx4ocu4ocu5om5yiw6ieq5bex5q2l6kq55qe56ys5lia5bm0
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/6650e3f60ed25f207f497b5d9b2b8c8a.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770704906122/295297c3-9d18-4335-a626-f16c890930d8.jpeg
 tags: spark, career, chinese, mlops, databricks, ai-engineer, claude-code
 
 ---
