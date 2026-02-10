@@ -3,7 +3,7 @@ title: "Reflections on My First Year as an AI Engineer: From "Trial by Fire" to 
 datePublished: Tue Feb 10 2026 02:35:53 GMT+0000 (Coordinated Universal Time)
 cuid: cmlfzobq0000002la6n0ib401
 slug: reflections-on-my-first-year-as-an-ai-engineer-from-trial-by-fire-to-a-sustainable-rhythm
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770690615225/c8596adb-b06f-4d35-8680-71a01803e075.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/6650e3f60ed25f207f497b5d9b2b8c8a.jpeg
 tags: spark, career, english, mlops, databricks, ai-engineer, claude-code
 
 ---
