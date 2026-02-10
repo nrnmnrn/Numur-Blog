@@ -115,6 +115,8 @@ AI 回覆 → 記錄到每日學習日誌 → 整理成個人知識庫
 
 後來，我也開始寫自己的 Blog，把整理過的知識分享出來。這篇文章就是其中之一。
 
+![Claude Code + Obsidian 的知識庫](https://cdn.hashnode.com/res/hashnode/image/upload/v1770703523469/30eb2aec-7ea7-460f-874f-5ddce229f990.jpeg align="center")
+
 ---
 
 ## 六、現在的工作節奏
