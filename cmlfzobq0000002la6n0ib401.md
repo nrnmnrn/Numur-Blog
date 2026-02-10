@@ -79,6 +79,11 @@ Even with powerful tools, I realized a new risk: **If I just blindly accepted wh
 
 Whenever Claude mentions a technical detail I don’t understand, I ask follow-up questions and document the answers. Obsidian’s "linked notes" feature allows me to turn these scattered insights into a knowledge graph. This helps me find the balance between "being led by the tool" and "truly understanding the tech." I don't need to know every low-level detail, but I must know the trade-offs and risks of the path we're taking.
 
+* *Claude Code x Obsidian: My Second Brain for Engineering*
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1770704111495/6a606835-1d4f-4a97-bc08-bd03149a3d56.jpeg align="center")
+    
+
 ---
 
 ### **6\. My Current Workflow**
